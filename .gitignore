@@ -1,2 +1,5 @@
-../*.pyc
-../../*.pyc
+chapter_1/*.pyc
+chapter_1/lvl_1_14/*.pyc
+chapter_1/lvl_1_14_2/*.pyc
+chapter_1/lvl_1_3/*.pyc
+
