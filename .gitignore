@@ -2,4 +2,9 @@ chapter_1/*.pyc
 chapter_1/lvl_1_14/*.pyc
 chapter_1/lvl_1_14_2/*.pyc
 chapter_1/lvl_1_3/*.pyc
-
+chapter_*/lvl_*/*.pyc
+/.DS_Store
+chapter_2/lvl_2/*.pyc
+chapter_2/lvl_2/__pychache__/*
+chapter_1/lvl_1_14_2/__pycache__/*
+chapter_2/lvl_1/__pycache__/*
